@@ -1,7 +1,32 @@
 
+/* Create at least one class, apply it to at least two elements, and style it.  */
+.beige-background {
+    background-color: #F5F5DC;
+    padding: 10px;
+    border-radius: 5px;
+}
 
-
-.title-style {
+/* Create at least one id, apply it to an element, and style it.  */
+#title_style_id {
     color: black;
     font-size: 20px;
 }
+
+/* Use a CSS selector to apply style(s) to at least one HTML tag. */
+p {
+    outline: gold;
+    color: gray;
+    font-size: 12px;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+
