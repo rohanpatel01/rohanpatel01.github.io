@@ -28,6 +28,7 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Change at least two box model properties of any tag, class, or id. */
 .outer_box {
     font-size: 30px;
     width: 300px;           
@@ -37,6 +38,7 @@ a:hover {
     border: 5px solid red;
 }
 
+/* Change at least two box model properties of any tag, class, or id. */
 .middle_box {
     font-size: 15px;
     width: 300px;           
@@ -46,6 +48,7 @@ a:hover {
     border: 5px solid orange;
 }
 
+/* Change at least two box model properties of any tag, class, or id. */
 .inner_box {
     font-size: 15px;
     width: 300px;           
