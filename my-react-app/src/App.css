@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,65 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+/* Create at least one class, apply it to at least two elements, and style it.  */
+.beige-background {
+  background-color: #F5F5DC;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Create at least one id, apply it to an element, and style it.  */
+#title_style_id {
+  color: orange;
+}
+
+/* Use a CSS selector to apply style(s) to at least one HTML tag. */
+p {
+  outline: gold;
+  color: gray;
+  font-size: 12px;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+/* Change at least two box model properties of any tag, class, or id. */
+.outer_box {
+  font-size: 30px;
+  width: 300px;           
+  height: 200px;          
+  padding: 20px;          
+  margin: 30px;           
+  border: 5px solid red;
+}
+
+/* Change at least two box model properties of any tag, class, or id. */
+.middle_box {
+  font-size: 15px;
+  width: 300px;           
+  height: 200px;          
+  padding: 20px;          
+  margin: 30px;           
+  border: 5px solid orange;
+}
+
+/* Change at least two box model properties of any tag, class, or id. */
+.inner_box {
+  font-size: 15px;
+  width: 300px;           
+  height: 200px;          
+  padding: 20px;          
+  margin: 30px;           
+  border: 5px solid yellow;
 }
